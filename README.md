@@ -22,6 +22,7 @@ Each day's project will be stored in a folder following this format:
 Day-X/
 │
 ├── index.html        # Main HTML file (if applicable)
+├── style.css         # Main CSS  file (if applicable)
 ├── script.js         # JavaScript code for the project
 └── README.md         # Description of the project and key learnings
 ```
