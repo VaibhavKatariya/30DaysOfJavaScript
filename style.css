@@ -1,0 +1,24 @@
+body {
+    background-color: #0c0f14;
+    color: #ffffff;
+    font-family: Arial, sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    margin: 0;
+  }
+  h1 {
+    margin-bottom: 20px;
+  }
+  a {
+    color: #00c3ff;
+    text-decoration: none;
+    font-size: 1.2rem;
+    margin: 10px 0;
+    display: block;
+  }
+  a:hover {
+    color: #1abc9c;
+  }

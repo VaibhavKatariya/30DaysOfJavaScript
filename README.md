@@ -31,7 +31,8 @@ Day-X/
 
 Below is the list of topics I will be covering throughout the challenge. The list will be updated daily with a project name and description as I complete each day.
 
-1. [ ]  **Day 01**: TBA (To Be Announced) - [Description to follow]
+1. [X]  **Day 01**:  [Simple Counter App](https://github.com/VaibhavKatariya/30DaysOfJavaScript/tree/main/Day-1)
+1. [ ]  **Day 02**: TBA (To Be Announced)
 
 ## 🤝 How You Can Help
 
