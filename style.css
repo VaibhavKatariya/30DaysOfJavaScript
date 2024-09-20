@@ -22,3 +22,24 @@ body {
   a:hover {
     color: #1abc9c;
   }
+  .head {
+    display: flex;
+    flex-direction: column;
+    align-items: center; /* Centers everything horizontally */
+  }
+  
+  .head h1 {
+    margin: 0;
+  }
+  
+  .head .subtext {
+    display: flex;
+    gap: 5px; /* Adds space between the span and link */
+    font-size: 1.2rem;
+  }
+  .subtext span{
+    margin: 10px 0;
+  }
+  .subtext {
+    margin-bottom: 20px;
+  } 

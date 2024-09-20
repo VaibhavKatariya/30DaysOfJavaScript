@@ -9,7 +9,7 @@ In this repository, I will upload a new JavaScript project every day for 30 cons
 ## 🛠️ How It Works
 
 - Each day, I'll tackle a new topic or project related to JavaScript.
-- The projects will range from simple exercises to more complex ones, covering a wide array of concepts.
+- The projects will **start very simple and basic** to build core understanding and gradually move towards **more complex and challenging tasks**.
 - I will upload my progress at the end of each day, ensuring I stay on track with the challenge.
 - This repository serves as my daily journal and a record of my learning.
 
