@@ -32,12 +32,12 @@ body {
     margin: 0;
   }
   
-  .head .subtext {
+  .head .subtext div{
     display: flex;
     gap: 5px; /* Adds space between the span and link */
     font-size: 1.2rem;
   }
-  .subtext span{
+  .subtext div span{
     margin: 10px 0;
   }
   .subtext {
