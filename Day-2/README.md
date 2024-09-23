@@ -16,4 +16,4 @@ A simple and intuitive To-Do List App that allows users to add, delete, and mana
 ## Demo
 You can check out the demo of the app [here](https://30dayjs-vaibhavkatariya.vercel.app/Day-2).
 
-![Counter Demo](screenshot.png)
+![Demo](screenshot.png)

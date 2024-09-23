@@ -16,4 +16,4 @@ This project is a **Temperature Converter** app that allows users to convert tem
 
 You can check out the live demo [here](https://30dayjs-vaibhavkatariya.vercel.app/Day-3)
 
-![Counter Demo](screenshot.png)
+![Demo](screenshot.png)

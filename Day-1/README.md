@@ -8,4 +8,4 @@ Today’s project is a **Simple Counter App**. The goal of this project is to cr
 
 You can view the live demo here: [Simple Counter App Demo](https://30dayjs-vaibhavkatariya.vercel.app/Day-1)
 
-![Counter Demo](screenshot.png)
+![Demo](screenshot.png)

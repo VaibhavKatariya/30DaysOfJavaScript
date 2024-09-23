@@ -35,7 +35,8 @@ Below is the list of topics I will be covering throughout the challenge. The lis
 1. [X]  **Day 01**:  [Simple Counter App](https://github.com/VaibhavKatariya/30DaysOfJavaScript/tree/main/Day-1)
 2. [X]  **Day 02**:  [Simple To-Do APP](https://github.com/VaibhavKatariya/30DaysOfJavaScript/tree/main/Day-2)
 3. [X]  **Day 03**:  [Temperature Converter App](https://github.com/VaibhavKatariya/30DaysOfJavaScript/tree/main/Day-3)
-4. [ ]  **Day 04**: TBA (To Be Announced)
+4. [X]  **Day 04**:  [Tip Calculator](https://github.com/VaibhavKatariya/30DaysOfJavaScript/tree/main/Day-4)
+5. [ ]  **Day 05**: TBA (To Be Announced)
 
 ## 🤝 How You Can Help
 
