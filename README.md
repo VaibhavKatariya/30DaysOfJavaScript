@@ -39,7 +39,8 @@ Below is the list of topics I will be covering throughout the challenge. The lis
 5. [X]  **Day 05**:  [Random Color Generator](https://github.com/VaibhavKatariya/30DaysOfJavaScript/tree/main/Day-5)
 6. [X]  **Day 06**:  [Weather App](https://github.com/VaibhavKatariya/30DaysOfJavaScript/tree/main/Day-6)
 7. [X]  **Day 07**:  [Expense Tracker](https://github.com/VaibhavKatariya/30DaysOfJavaScript/tree/main/Day-7)
-8. [ ]  **Day 08**: TBA (To Be Announced)
+8. [X]  **Day 08**:  [Quiz App](https://github.com/VaibhavKatariya/30DaysOfJavaScript/tree/main/Day-8)
+9. [ ]  **Day 09**: TBA (To Be Announced)
 
 ## 🤝 How You Can Help
 
