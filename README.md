@@ -43,7 +43,8 @@ Below is the list of topics I will be covering throughout the challenge. The lis
 9. [X]  **Day 09**:  [Personal Diary App](https://github.com/VaibhavKatariya/30DaysOfJavaScript/tree/main/Day-9)
 10. [X]  **Day 10**:  [Calculator](https://github.com/VaibhavKatariya/30DaysOfJavaScript/tree/main/Day-10)
 11. [X]  **Day 11**:  [Movie Search App](https://github.com/VaibhavKatariya/30DaysOfJavaScript/tree/main/Day-11)
-12. [ ]  **Day 12**: TBA (To Be Announced)
+12. [X]  **Day 12**:  [Tic-Tac-Toe](https://github.com/VaibhavKatariya/30DaysOfJavaScript/tree/main/Day-12)
+13. [ ]  **Day 13**: TBA (To Be Announced)
 
 ## 🤝 How You Can Help
 
