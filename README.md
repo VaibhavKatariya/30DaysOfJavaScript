@@ -4,7 +4,7 @@ Welcome to my **30 Days of JavaScript** challenge! 🎉
 
 ## 📅 Challenge Overview
 
-In this repository, I will upload a new JavaScript project every day for 30 consecutive days to enhance my understanding of JavaScript fundamentals. This challenge will help me strengthen my coding skills and build a solid foundation.
+In this repository, I will upload a new JavaScript project every day for 30 consecutive days to enhance my understanding of JavaScript fundamentals. Although I had a small break between **3rd to 5th October**, I'm restarting the streak from **6th October** and will continue building.
 
 ## 🛠️ How It Works
 
@@ -44,7 +44,8 @@ Below is the list of topics I will be covering throughout the challenge. The lis
 10. [X]  **Day 10**:  [Calculator](https://github.com/VaibhavKatariya/30DaysOfJavaScript/tree/main/Day-10)
 11. [X]  **Day 11**:  [Movie Search App](https://github.com/VaibhavKatariya/30DaysOfJavaScript/tree/main/Day-11)
 12. [X]  **Day 12**:  [Tic-Tac-Toe](https://github.com/VaibhavKatariya/30DaysOfJavaScript/tree/main/Day-12)
-13. [ ]  **Day 13**: TBA (To Be Announced)
+13. [X]  **Day 13**:  [Password Strength Checker](https://github.com/VaibhavKatariya/30DaysOfJavaScript/tree/main/Day-13)
+14. [ ]  **Day 14**: TBA (To Be Announced)
 
 ## 🤝 How You Can Help
 
