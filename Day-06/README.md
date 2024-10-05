@@ -21,5 +21,5 @@ The input field is not used in this version of the app. The coordinates are hard
 
 ## Demo
 
-Check out the live demo [here](https://30dayjs-vaibhavkatariya.vercel.app/Day-6).
+Check out the live demo [here](https://30dayjs-vaibhavkatariya.vercel.app/Day-06).
 ![Counter Demo](screenshot.png)

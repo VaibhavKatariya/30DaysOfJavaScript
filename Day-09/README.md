@@ -19,5 +19,5 @@ The Personal Diary App allows users to write and save their thoughts in a diary 
 
 ## Demo
 
-Check out the live demo [here](https://30dayjs-vaibhavkatariya.vercel.app/Day-9).
+Check out the live demo [here](https://30dayjs-vaibhavkatariya.vercel.app/Day-09).
 ![Demo](screenshot.png)

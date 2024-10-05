@@ -14,6 +14,6 @@ A simple and intuitive To-Do List App that allows users to add, delete, and mana
 3. To delete a task, click the "Delete" button next to the task.
 
 ## Demo
-You can check out the demo of the app [here](https://30dayjs-vaibhavkatariya.vercel.app/Day-2).
+You can check out the demo of the app [here](https://30dayjs-vaibhavkatariya.vercel.app/Day-02).
 
 ![Demo](screenshot.png)

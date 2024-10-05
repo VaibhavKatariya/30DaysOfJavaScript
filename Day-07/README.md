@@ -21,5 +21,5 @@ Today's project is an **Expense Tracker App**. This app allows users to add, fil
 
 ## Demo
 
-Check out the live demo [here](https://30dayjs-vaibhavkatariya.vercel.app/Day-7).
+Check out the live demo [here](https://30dayjs-vaibhavkatariya.vercel.app/Day-07).
 ![Counter Demo](screenshot.png)

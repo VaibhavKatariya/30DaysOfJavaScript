@@ -21,5 +21,5 @@ Today's project is a **Quiz App** that challenges users with multiple-choice que
 
 ## Demo
 
-Check out the live demo [here](https://30dayjs-vaibhavkatariya.vercel.app/Day-8).
+Check out the live demo [here](https://30dayjs-vaibhavkatariya.vercel.app/Day-08).
 ![Demo](screenshot.png)

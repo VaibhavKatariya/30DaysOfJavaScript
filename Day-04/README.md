@@ -13,6 +13,6 @@ The **Tip Calculator** helps users quickly calculate the tip amount, total bill,
 
 ## Demo
 
-Check out the live demo [here](https://30dayjs-vaibhavkatariya.vercel.app/Day-4).
+Check out the live demo [here](https://30dayjs-vaibhavkatariya.vercel.app/Day-04).
 
 ![Counter Demo](screenshot.png)

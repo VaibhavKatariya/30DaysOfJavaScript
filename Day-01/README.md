@@ -6,6 +6,6 @@ Today’s project is a **Simple Counter App**. The goal of this project is to cr
 
 ## Demo
 
-You can view the live demo here: [Simple Counter App Demo](https://30dayjs-vaibhavkatariya.vercel.app/Day-1)
+You can view the live demo here: [Simple Counter App Demo](https://30dayjs-vaibhavkatariya.vercel.app/Day-01)
 
 ![Demo](screenshot.png)

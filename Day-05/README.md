@@ -12,5 +12,5 @@ The **Random Color Generator** allows users to change the background color of th
 
 ## Demo
 
-Check out the live demo [here](https://30dayjs-vaibhavkatariya.vercel.app/Day-5).
+Check out the live demo [here](https://30dayjs-vaibhavkatariya.vercel.app/Day-05).
 ![Counter Demo](screenshot.png)
