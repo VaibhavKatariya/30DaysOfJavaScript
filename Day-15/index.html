@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Unit Converter</title>
+    <link rel="stylesheet" href="/Day-15/style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Unit Converter</h1>
+        <div class="converter">
+            <label for="unit-type">Choose Unit Type:</label>
+            <select id="unit-type">
+                <option value="length">Length</option>
+                <option value="weight">Weight</option>
+                <option value="temperature">Temperature</option>
+            </select>
+
+            <div class="input-group">
+                <input type="number" id="input-value" placeholder="Enter value">
+                <select id="from-unit"></select>
+            </div>
+
+            <div class="input-group">
+                <input type="text" id="output-value" style=" color: white; " disabled>
+                <select id="to-unit"></select>
+            </div>
+
+            <button id="convert-btn">Convert</button>
+        </div>
+    </div>
+    <script defer src="/Day-15/script.js"></script>
+</body>
+</html>
