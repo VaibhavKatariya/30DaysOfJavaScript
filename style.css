@@ -43,3 +43,7 @@ body {
   .subtext {
     margin-bottom: 20px;
   } 
+
+  .vh50{
+    min-height: 50vh;
+  }
