@@ -50,7 +50,8 @@ Below is the list of topics I will be covering throughout the challenge. The lis
 16. [X]  **Day 16**:  [Task Timer App](https://github.com/VaibhavKatariya/30DaysOfJavaScript/tree/main/Day-16)
 17. [X]  **Day 17**:  [Currency Converter](https://github.com/VaibhavKatariya/30DaysOfJavaScript/tree/main/Day-17)
 18. [X]  **Day 18**:  [Random Quote Generator](https://github.com/VaibhavKatariya/30DaysOfJavaScript/tree/main/Day-18)
-19. [ ]  **Day 19**: TBA (To Be Announced)
+19. [X]  **Day 19**:  [Pomodoro Timer](https://github.com/VaibhavKatariya/30DaysOfJavaScript/tree/main/Day-19)
+20. [ ]  **Day 20**: TBA (To Be Announced)
 
 ## 🤝 How You Can Help
 
