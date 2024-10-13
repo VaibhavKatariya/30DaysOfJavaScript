@@ -4,7 +4,7 @@ Welcome to my **30 Days of JavaScript** challenge! 🎉
 
 ## 📅 Challenge Overview
 
-In this repository, I will upload a new JavaScript project every day for 30 consecutive days to enhance my understanding of JavaScript fundamentals. Although I had a small break between **3rd to 5th October**, I'm restarting the streak from **6th October** and will continue building.
+In this repository, I will upload a new JavaScript project every day for 30 consecutive days to enhance my understanding of JavaScript fundamentals. Although I had a small break between **3rd to 5th October and 10th October**, I'm restarting the streak from **6th October** and will continue building.
 
 ## 🛠️ How It Works
 
@@ -51,7 +51,8 @@ Below is the list of topics I will be covering throughout the challenge. The lis
 17. [X]  **Day 17**:  [Currency Converter](https://github.com/VaibhavKatariya/30DaysOfJavaScript/tree/main/Day-17)
 18. [X]  **Day 18**:  [Random Quote Generator](https://github.com/VaibhavKatariya/30DaysOfJavaScript/tree/main/Day-18)
 19. [X]  **Day 19**:  [Pomodoro Timer](https://github.com/VaibhavKatariya/30DaysOfJavaScript/tree/main/Day-19)
-20. [ ]  **Day 20**: TBA (To Be Announced)
+20. [X]  **Day 20**:  [Advance Pomodoro Timer](https://github.com/VaibhavKatariya/30DaysOfJavaScript/tree/main/Day-20)
+21. [ ]  **Day 21**: TBA (To Be Announced)
 
 ## 🤝 How You Can Help
 
