@@ -52,7 +52,8 @@ Below is the list of topics I will be covering throughout the challenge. The lis
 18. [X]  **Day 18**:  [Random Quote Generator](https://github.com/VaibhavKatariya/30DaysOfJavaScript/tree/main/Day-18)
 19. [X]  **Day 19**:  [Pomodoro Timer](https://github.com/VaibhavKatariya/30DaysOfJavaScript/tree/main/Day-19)
 20. [X]  **Day 20**:  [Advance Pomodoro Timer](https://github.com/VaibhavKatariya/30DaysOfJavaScript/tree/main/Day-20)
-21. [ ]  **Day 21**: TBA (To Be Announced)
+21. [X]  **Day 21**:  [Habit Tracker](https://github.com/VaibhavKatariya/30DaysOfJavaScript/tree/main/Day-21)
+22. [ ]  **Day 22**: TBA (To Be Announced)
 
 ## 🤝 How You Can Help
 
