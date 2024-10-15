@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/Day-22/style.css">
+    <title>Fitness Tracker</title>
+</head>
+<body>
+    <div class="container">
+        <h1>Fitness Tracker</h1>
+        <form id="workoutForm">
+            <input type="text" id="exerciseType" placeholder="Exercise Type" required>
+            <input type="number" id="duration" placeholder="Duration (minutes)" required>
+            <input type="number" id="calories" placeholder="Calories Burned" required>
+            <button type="submit">Log Workout</button>
+        </form>
+        <ul id="workoutList"></ul>
+        <button id="clearBtn">Clear All Workouts</button>
+    </div>
+    <script src="/Day-22/script.js"></script>
+</body>
+</html>
