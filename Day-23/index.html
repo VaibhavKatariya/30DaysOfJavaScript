@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Time Zone Converter</title>
+  <link rel="stylesheet" href="/Day-23/style.css">
+</head>
+<body>
+  <!-- /Day-23/index.html -->
+<div class="container">
+  <h1>Time Zone Converter</h1>
+
+  <div class="input-container">
+    <label for="time-input">Enter Time (HH:MM):</label>
+    <input type="time" id="time-input" required>
+  </div>
+
+  <div class="input-container">
+    <label for="timezone-select">From Time Zone:</label>
+    <select id="timezone-select">
+      <option value="">Select Time Zone</option>
+      <option value="EST">EST</option>
+      <option value="PST">PST</option>
+      <option value="IST">IST</option>
+      <option value="CST">CST</option>
+      <option value="GMT">GMT</option>
+      <option value="CET">CET</option>
+    </select>
+  </div>
+
+  <div class="input-container">
+    <label for="target-timezone-select">To Time Zone:</label>
+    <select id="target-timezone-select">
+      <option value="">Select Time Zone</option>
+      <option value="EST">EST</option>
+      <option value="PST">PST</option>
+      <option value="IST">IST</option>
+      <option value="CST">CST</option>
+      <option value="GMT">GMT</option>
+      <option value="CET">CET</option>
+    </select>
+  </div>
+
+  <button id="convert-btn">Convert Time</button>
+
+  <div class="output-container">
+    <p id="converted-time"></p>
+  </div>
+</div>
+
+
+  <script src="/Day-23/script.js"></script>
+</body>
+</html>
